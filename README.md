@@ -1,6 +1,6 @@
-# 2024-02-23-Python
+# 2025-02-11-Python
 
-Welcome to the "Python for Beginners" repository! Here, you will find the [Python_for_beginners.ipynb](Python_for_beginners.ipynb) Google Colab notebook, a comprehensive guide designed to kickstart your journey into the world of Python programming. This material is structured to serve as a guided lecture for classroom settings and is equally effective for individuals pursuing self-study.
+Welcome to the "Python for Beginners" repository! Here, you will find the [Python_for_beginners.ipynb](Python_for_beginners.ipynb) Google Colab notebook, a comprehensive guide designed to kickstart your journey into Python programming. This material is structured to serve as a guided lecture for classroom settings and is equally effective for individuals pursuing self-study.
 
 ## Learning Outcomes
 By engaging with the content of this lecture, you will achieve the following learning outcomes:
@@ -18,6 +18,6 @@ By engaging with the content of this lecture, you will achieve the following lea
 - (Bonus) Introduction to Object-Oriented Programming (OOP) - Acquire a basic understanding of OOP concepts in Python, including classes and objects.
 
 ## Enjoy Your Learning Journey!
-We hope this material empowers you to begin your Python programming journey confidently. Whether in a classroom or learning independently, we encourage you to dive deep, experiment, and enjoy the process of becoming proficient in one of the most versatile programming languages in the tech industry today.
+We hope this material helps you begin your Python programming journey. Whether in a classroom or learning independently, we encourage you to dive deep, experiment, and enjoy the process of becoming proficient in one of the most versatile programming languages in the tech industry today.
 
 Remember, programming is as much about creativity and exploration as it is about coding. So, embark on this journey with curiosity and an open mind. Happy Coding!
